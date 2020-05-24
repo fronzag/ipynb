@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Dados Aula
+data/br_municipios/
+data/br_unidades_da_federacao/
+data/defpatterns.missing.csv
+data/deter/
+data/endereco.json
+data/focos_2017/
+data/uf-2018/
+
